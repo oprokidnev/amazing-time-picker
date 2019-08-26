@@ -17,6 +17,7 @@ import { SnackAdComponent } from './snack-ad/snack-ad.component';
 import { FullLayoutComponent } from './presentation/full-layout/full-layout.component';
 import { LayoutBasicComponent } from './presentation/basic-layout/basic-layout.component';
 
+// @dynamic
 @NgModule({
   declarations: [
     AppComponent,
